@@ -11,7 +11,7 @@
 	    <!-- 네비게이션  -->
 	    <nav>
 	        <ul>
-	            <li><a href="../index.jsp">메인</a></li>
+	            <li><a href="index.jsp">메인</a></li>
 	        </ul>
 	    </nav>
 	    <h1>로그인 페이지입니다.</h1>
@@ -23,7 +23,7 @@
 	                </div>
 	                <div class="loginform-group">
 	                    <input type="password" class="user_passwd" placeholder="비밀번호" name="user_passwd" value="" maxlength="20">
-	                </div><br>
+	                </div>
 	                    <input type="submit" class="login" value="로그인">
 	        </form>    
 	    </div>
